@@ -1,0 +1,19 @@
+.contact-head {
+	text-align: center;
+	margin-top: 80px;
+}
+
+.contact {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+textarea {
+	height: 300px;
+}
+
+.contact-social {
+	text-align: center;
+	margin-bottom: 20px;
+}

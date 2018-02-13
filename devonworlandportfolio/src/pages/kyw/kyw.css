@@ -1,0 +1,52 @@
+.kyw-title {
+	margin-top: 80px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.KYW-btn {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.kyw-image {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.kyw-description {
+	text-align: center;
+	margin-bottom: 50px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+.description {
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 30px;
+	font-size: 19px;
+}
+
+.kyw-home {
+	height: 400px;
+}
+
+.kyw-results {
+	height: 300px;
+}
+
+.kyw-saved {
+	height: 300px;
+}
+
+.kyw-question {
+	text-align: center;
+	font-size: 28px;
+}
+
+.KYW-list {
+	text-align: center;
+	margin-bottom: 50px;
+	font-size: 19px;
+}

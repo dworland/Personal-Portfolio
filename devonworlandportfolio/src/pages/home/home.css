@@ -1,0 +1,266 @@
+.jumbo-header {
+	height: 950px;
+}
+
+.profile-header {
+	text-align: center;
+	font-family: 'Kranky', cursive;
+	color: #B5CBB7;
+	font-size: 70px;
+}
+
+.profile-img {
+	background-image: url("./devon2.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 600px;
+	height: 300px;
+
+}
+
+.jumbo-img {
+	background-image: url("./banner.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1650px;
+	height: 325px;
+	/*width: 100%;*/
+	margin-top: 55px;
+}
+
+.intro {
+	font-family: 'EB Garamond', serif;
+	font-size: 23px;
+	text-align: center;
+}
+
+.social {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.social-icon {
+	margin-right: 10px;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("headshot.png");
+
+    /* Set a specific height */
+    min-height: 100px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about {
+	background-color: white;
+	opacity: 0.6;
+	height: 650px;
+}
+
+.about-header {
+	margin-top: 30px;
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 50px;
+}
+
+.about-paragraph {
+	font-family: 'EB Garamond', serif;
+	font-size: 23px;
+	color: black;
+	font-weight: bold;
+}
+
+.projects {
+	height: 450px;
+	background-color: #ECD3D4;
+}
+
+.projects-header {
+	margin-bottom: 30px;
+	color: white;
+}
+
+.recent-work {
+	font-size: 20px;
+	font-family: 'EB Garamond', sans-serif;
+	margin-bottom: 0px;
+}
+
+.project {
+	height: 200px;
+	text-align: center;
+	padding: 0px;
+}
+
+.section-header {
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 0px;
+}
+
+.project-img {
+	height: 200px;
+}
+
+.project:hover .overlay {
+  opacity: 1;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #151E3F;
+}
+
+.hover-text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.view-all {
+	text-align: center;
+	margin-top: 40px;
+}
+
+.view-btn {
+	background-color: white;
+	color: gray;
+}
+
+.skills {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
+
+.skills-header {
+	margin-bottom: 50px;
+}
+
+.skills-tests {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.skill {
+	height: 130px;
+	text-align: center;
+}
+
+.devicon-html5-plain-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-css3-plain-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-javascript-plain {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-jquery-plain-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-bootstrap-plain-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-nodejs-plain-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-express-original-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-mysql-plain-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-mongodb-plain-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.devicon-react-original-wordmark {
+	font-size: 100px;
+	padding-top: 20px;
+	color: #B5CBB7;
+}
+
+.extra-space {
+	height: 20px;
+	background-color: #151E3F;
+}
+
+.contact-me {
+	text-align: center;
+	background-color: #151E3F;
+}
+
+.creative-img {
+	background-image: url("./creative-process.png");
+	background-repeat: no-repeat;
+	background-position: center;x
+	margin-bottom: 30px;
+	height: 75px;
+}
+
+.contact-info {
+	color: white;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.contact-btn {
+	background-color: white;
+	color: gray;
+	border: 1px solid black;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+

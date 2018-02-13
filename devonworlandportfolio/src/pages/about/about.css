@@ -1,0 +1,31 @@
+.about-page-intro {
+	margin-top: 90px;
+	font-family: 'EB Garamond', serif;
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+
+.about-page-paragraph {
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+}
+
+.about-contact-btn {
+	background-color: white;
+	color: black;
+	border-color: black;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.about-social {
+	margin-bottom: 30px;
+}
+
+.about-page-img {
+	background-image: url("./devon-about.png");
+	background-repeat: no-repeat;
+	background-size: 700px;
+	margin-top: 50px;
+	height: 800px;
+}
